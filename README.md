@@ -1,0 +1,1 @@
+**write a C program that finds a name in a phone book of 1, 000, 000 names using the hashtable and MurmurHash2 hash function that reduces a collision and prevent preimage attacks and other types of hash collision attacks.**<br/>
